@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Backend Developer | Passionate Learner | Certified Software Technologist 🚀<br><br>I’m a Backend Developer with a solid foundation in software development, recently certified as a Software Technologist from SENA 🎓. I have hands-on experience building RESTful APIs 🌐 and scalable solutions using technologies like Java ☕, Spring Boot, Node.js, and JavaScript. I’m skilled in working with MySQL 🗄️, PostgreSQL, and have successfully integrated Docker 🐳 into my development process for containerization.<br><br>I’m proficient in writing automated tests with Jest and Supertest 🧪, monitoring performance with InfluxDB 📊, Grafana, and conducting load testing using K6 🔍. Additionally, I’ve utilized tools like Swagger for API documentation 📄 and front-end basics like HTML, CSS, and Tailwind for full-stack understanding. While I have exposure to various technologies, my passion lies in backend development, where I focus on creating robust and efficient systems 💻.<br><br>Always eager to learn and continuously improve, I’m looking forward to contributing to innovative projects and further honing my skills in backend technologies 🌟.</p>
+<p align="left">Building secure and scalable REST APIs with modern backend technologies. Certified Software Technologist from SENA 🎓</p>
 
 ###
 
