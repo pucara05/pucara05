@@ -94,7 +94,7 @@ Always learning and improving as a developer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 
 </div>
-###
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/7rx0nnlp9atd7n3m5w9jt085g">
