@@ -45,7 +45,7 @@ Always learning and improving as a developer.
 
 <h3 align="center">🛠 Tech Stack</h3>
 
-<div align="left">
+<div align="center">
 
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
